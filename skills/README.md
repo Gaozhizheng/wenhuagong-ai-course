@@ -10,6 +10,6 @@
 
 ## 维护约定
 
-- skill 实体升级后，同轮更新三处：本目录的展开文件夹、`dist/` 里的 ZIP、仓库根的版本记录
+- skill 实体升级后，同轮更新三处：本目录的展开文件夹、`dist/` 里的 ZIP、仓库根 README 的收录表版本号与徽章
 - 目录名与 `SKILL.md` frontmatter 的 `name` 一致
 - 分享包格式：`<skill-name>.zip`，包内根目录即 skill 文件夹名
