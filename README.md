@@ -4,7 +4,7 @@
 
 **把课堂里调教好的 AI 技能，装进任何人的桌面端 AI 客户端**
 
-![skills](https://img.shields.io/badge/skills-1-185FA5) ![version](https://img.shields.io/badge/skill-v2.0-534AB7) ![format](https://img.shields.io/badge/Agent%20Skills-SKILL.md-0F6E56)
+![skills](https://img.shields.io/badge/skills-1-185FA5) ![version](https://img.shields.io/badge/skill-v2.1-534AB7) ![format](https://img.shields.io/badge/Agent%20Skills-SKILL.md-0F6E56)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 | 技能 | 做什么 | 版本 | 入口 |
 |---|---|---|---|
-| **即梦图像工坊** `jimeng-image-workshop` | 把一句模糊的生图需求，变成能直接粘到即梦的中文提示词；也支持改图、融图、组图、优化已有提示词 | v2.0 | [skills/jimeng-image-workshop](skills/jimeng-image-workshop) |
+| **即梦图像工坊** `jimeng-image-workshop` | 把一句模糊的生图需求，变成能直接粘到即梦的中文提示词；也支持改图、融图、组图、优化已有提示词 | v2.1 | [skills/jimeng-image-workshop](skills/jimeng-image-workshop) |
 
 你只说「想做张卖茶叶的图」，它会问清用途和风格，给一段可直接复制的提示词和一句操作指引。**不生成图片、不调 API、不需要密钥**；图片在即梦里由你自己生成。
 
